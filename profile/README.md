@@ -40,6 +40,7 @@ Somos un ecosistema de microservicios, herramientas y componentes de infraestruc
 | `ali-api-gw-graphql`                | 🌐 Gateway principal con GraphQL                     |
 | `ali-api-gw-rest`                   | 🚪 Gateway REST para servicios externos              |
 | `ali-lib-tl-common`                 | 🧰 Librería transversal común entre microservicios   |
+| `ali-lib-web-ui`                    | 🖌️ Librería para diseño UI de aplicaciones frontend  |
 | `ali-movil-py-sdk`                  | 📱 SDK en Python para integración móvil              |
 | `ali-movil-wallet`                  | 💳 Aplicación de Wallet móvil                        |
 | `ali-ms-op-users`                   | 👤 Gestión de usuarios                               |
@@ -57,6 +58,7 @@ Somos un ecosistema de microservicios, herramientas y componentes de infraestruc
 | `ali-ms-tl-orchestrator`           | 🎯 Orquestador central para ejecución de flujos y coordinación entre microservicios |
 | `ali-wp-website`                   | 🌍 Sitio web institucional                           |
 | `ali-cfg-arq-k8s`                  | 🛡️ Configuración de Kubernetes (EKS) y Helm Charts   |
+| `ali-cfg-arq-envs`                 | 🎨 Configuración de variables de entorno y secretos por microservicio   |
 | `ali-cfg-arq-devops-tools`         | 🧰 Scripts y herramientas de automatización DevOps   |
 
 ---
